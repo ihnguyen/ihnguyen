@@ -12,7 +12,7 @@ I would like to introduce you three projects I have completed in the past few ye
 
 2. [Predicting length of stay (LOS) in beneficiaries using county-level profiling and multiple linear regression on Medicare claims data](https://github.com/ihnguyen/SAS_Project2)
    - This healthcare project aims to predict length of stay using Medicare claims data
-   - **Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills**
+   - **Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome**
 
 3. [What is Westbrook's Outlook on the Lakers after LeBron's Return? Twitter Sentiment Analysis](https://github.com/ihnguyen/R_Project)
    - This personal project explores fan's sentiment towards a well-known basketball player
