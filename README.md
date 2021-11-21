@@ -6,7 +6,7 @@ I pursued a certificate in Healthcare Analytics to better understand how program
 Today I am currently pursuing a Master's in Statistics at California State University East Bay. My goal is to advance my technical skillset in programming languages such as R and utilize statistical knowledge to help make data-driven insights and decisions that will make positive and transformative impacts to the lives of others.
 I would like to introduce you three projects I have completed in the past few years using SAS, SQL, or R.
 
-1. [Do high levels of cholesterol increase your odds of having hypertension?](https://github.com/ihnguyen/SAS_Project)
+1. [Do high levels of cholesterol increase your odds of having hypertension? Using Multiple Logistic Regression](https://github.com/ihnguyen/SAS_Project)
    - This healthcare project aims to discover the relationship between two health predictors
    -  **Goals: To inform in better health decisions and increase life expectancy and longevity**
 
