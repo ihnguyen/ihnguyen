@@ -14,6 +14,6 @@ I would like to introduce you three projects I have completed in the past few ye
    - This healthcare project aims to predict length of stay using Medicare claims data
    - **Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills**
 
-3. What is Westbrook's Outlook on the Lakers after LeBron's Return? Twitter Sentiment Analysis
+3. [What is Westbrook's Outlook on the Lakers after LeBron's Return? Twitter Sentiment Analysis](https://github.com/ihnguyen/R_Project)
    - This personal project explores fan's sentiment towards a well-known basketball player
    - **Goals: To determine the value of a basketball player's performance in a new team based on fan sentiment which can facilitate future contract negotiations and increase consumer retention**
