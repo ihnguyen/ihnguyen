@@ -22,3 +22,8 @@ Projects at a glance:
    - Explores fan's sentiment towards a well-known basketball player on Twitter data
    - Analysis technique used: Sentiment Analysis
    - **Goals: To determine the value of a basketball player's performance in a new team based on fan sentiment which can facilitate future contract negotiations and increase consumer retention**
+
+4. [How did Shang-Chi and the Ten Rings do?](https://github.com/ihnguyen/disney)
+   - Explores fan's sentiment towards the Marvel Studios film on Twitter data
+   - Analysis technique used: Sentiment Analysis
+   - **Goals: To determine fan's sentiment and success towards the film**
