@@ -10,7 +10,7 @@ I would like to introduce you three projects I have completed in the past few ye
    - This healthcare project aims to discover the relationship between two health predictors
    - Goals: To inform in better health decisions and increase life expectancy and longevity
 
-2. Predicting length of stay in beneficiaries using county-level profiling and multiple linear regression on Medicare claims data
+2. Predicting length of stay (LOS) in beneficiaries using county-level profiling and multiple linear regression on Medicare claims data
    - This healthcare project aims to predict length of stay using Medicare claims data
    - Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills
 
