@@ -26,4 +26,4 @@ Projects at a glance:
 4. [How did Shang-Chi and the Ten Rings do?](https://github.com/ihnguyen/disney)
    - Explores fan's sentiment towards the Marvel Studios film on Twitter data
    - Analysis technique used: Sentiment Analysis
-   - **Goals: To determine fan's sentiment and success towards the film**
+   - **Goals: To determine fan's sentiment towards the film**
