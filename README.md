@@ -7,12 +7,12 @@ Today I am currently pursuing a Master's in Statistics at California State Unive
 I would like to introduce you three projects I have completed in the past few years using SAS, SQL, or R.
 
 1. [Do high levels of cholesterol increase your odds of having hypertension?](https://github.com/ihnguyen/SAS_Project)
-   - Aims to discover the relationship between two health predictors on Framingham Heart Study data
+   - Aims to discover the relationship between two common health predictors on Framingham Heart Study data
    - Analysis technique used: Multiple Logistic Regression
    -  **Goals: To inform in better health decisions and increase life expectancy and longevity**
 
 2. [Predicting length of stay (LOS) in beneficiaries](https://github.com/ihnguyen/SAS_Project2)
-   - Aims to predict length of stay on Medicare claims data
+   - Aims to predict hospital bed length of stay on Medicare claims data
    - Analysis techniques used: County-level Profiling and Multiple Linear Regression
    - **Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome**
 
