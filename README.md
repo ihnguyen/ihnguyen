@@ -6,14 +6,17 @@ I pursued a certificate in Healthcare Analytics to better understand how program
 Today I am currently pursuing a Master's in Statistics at California State University East Bay. My goal is to advance my technical skillset in programming languages such as R and utilize statistical knowledge to help make data-driven insights and decisions that will make positive and transformative impacts to the lives of others.
 I would like to introduce you three projects I have completed in the past few years using SAS, SQL, or R.
 
-1. [Do high levels of cholesterol increase your odds of having hypertension? Using multiple logistic regression on Framingham Heart Study data](https://github.com/ihnguyen/SAS_Project)
-   - This healthcare project aims to discover the relationship between two health predictors
+1. [Do high levels of cholesterol increase your odds of having hypertension?](https://github.com/ihnguyen/SAS_Project)
+   - Aims to discover the relationship between two health predictors on Framingham Heart Study data
+   - Analysis technique used: Multiple Logistic Regression
    -  **Goals: To inform in better health decisions and increase life expectancy and longevity**
 
-2. [Predicting length of stay (LOS) in beneficiaries using county-level profiling and multiple linear regression on Medicare claims data](https://github.com/ihnguyen/SAS_Project2)
-   - This healthcare project aims to predict length of stay using Medicare claims data
+2. [Predicting length of stay (LOS) in beneficiaries](https://github.com/ihnguyen/SAS_Project2)
+   - Aims to predict length of stay on Medicare claims data
+   - Analysis techniques used: County-level Profiling and Multiple Linear Regression
    - **Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome**
 
-3. [What is Westbrook's outlook on the Lakers after LeBron's return? Twitter sentiment analysis](https://github.com/ihnguyen/R_Project)
-   - This personal project explores fan's sentiment towards a well-known basketball player
+3. [What is Westbrook's outlook on the Lakers after LeBron's return?](https://github.com/ihnguyen/R_Project)
+   - Explores fan's sentiment towards a well-known basketball player on Twitter data
+   - Analysis technique used: Sentiment Analysis
    - **Goals: To determine the value of a basketball player's performance in a new team based on fan sentiment which can facilitate future contract negotiations and increase consumer retention**
