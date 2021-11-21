@@ -6,7 +6,7 @@ I pursued a certificate in Healthcare Analytics to better understand how program
 Today I am currently pursuing a Master's in Statistics at California State University East Bay. My goal is to advance my technical skillset in programming languages such as R and utilize statistical knowledge to help make data-driven insights and decisions that will make positive and transformative impacts to the lives of others.
 I would like to introduce you three projects I have completed in the past few years using SAS, SQL, or R.
 
-1. [Do high levels of cholesterol increase your odds of having hypertension? Using Multiple Logistic Regression](https://github.com/ihnguyen/SAS_Project)
+1. [Do high levels of cholesterol increase your odds of having hypertension? Using multiple logistic regression](https://github.com/ihnguyen/SAS_Project)
    - This healthcare project aims to discover the relationship between two health predictors
    -  **Goals: To inform in better health decisions and increase life expectancy and longevity**
 
@@ -14,6 +14,6 @@ I would like to introduce you three projects I have completed in the past few ye
    - This healthcare project aims to predict length of stay using Medicare claims data
    - **Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome**
 
-3. [What is Westbrook's Outlook on the Lakers after LeBron's Return? Twitter Sentiment Analysis](https://github.com/ihnguyen/R_Project)
+3. [What is Westbrook's outlook on the Lakers after LeBron's return? Twitter sentiment analysis](https://github.com/ihnguyen/R_Project)
    - This personal project explores fan's sentiment towards a well-known basketball player
    - **Goals: To determine the value of a basketball player's performance in a new team based on fan sentiment which can facilitate future contract negotiations and increase consumer retention**
