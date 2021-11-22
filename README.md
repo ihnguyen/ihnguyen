@@ -4,7 +4,7 @@ When I was a clinical laboratory associate at Guardant Health, I had the opportu
 I pursued a certificate in Healthcare Analytics to better understand how programming languages such as SAS and SQL can be used to make statistical inferences.
 
 Today I am currently pursuing a Master's in Statistics at California State University East Bay. My goal is to advance my technical skillset in programming languages such as R and utilize statistical knowledge to help make data-driven insights and decisions that will make positive and transformative impacts to the lives of others.
-I would like to introduce you three projects I have completed in the past few years using SAS, SQL, or R.
+I would like to introduce you four projects I have completed in the past few years using SAS, SQL, or R.
 
 Projects at a glance:
 
