@@ -18,7 +18,7 @@ Projects at a glance:
    - Analysis techniques used: County-level Profiling and Multiple Linear Regression using SAS and SQL
    - **Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome**
 
-3. [What is Westbrook's outlook on the Lakers after LeBron's return?](https://github.com/ihnguyen/R_Project)
+3. [What is former OKC basketball player Westbrook's outlook on the Lakers?](https://github.com/ihnguyen/R_Project)
    - Explores fan's sentiment towards a well-known basketball player on Twitter data
    - Analysis technique used: Sentiment Analysis using R
    - **Goals: To determine the value of a basketball player's performance in a new team based on fan sentiment which can facilitate future contract negotiations and increase consumer retention**
