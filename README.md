@@ -23,7 +23,6 @@ Projects at a glance:
    - Analysis technique used: Sentiment Analysis using R
    - **Goals: To determine the value of a basketball player's performance in a new team based on fan sentiment which can facilitate future contract negotiations and increase consumer retention**
 
-4. [How did the Marvel Studios film perform starring its first Asian American main character?](https://github.com/ihnguyen/disney)
-   - Explores fan's sentiment towards the Marvel Studios film on Twitter data
-   - Analysis technique used: Sentiment Analysis using R
-   - **Goals: To determine fan's sentiment towards the Shang-Chi and the Legend of the Ten Rings**
+4. [R-Shiny Interactive Dashboard of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://aibx1h-thuy0nhi0nguyen.shinyapps.io/SkilledNursingFacilities/)
+   - Technique used: R Shiny
+   - **Goals: To facilitate data exploration of California SNF and identify relationships and trends**
