@@ -18,11 +18,6 @@ Projects at a glance:
    - Analysis techniques used: County-level Profiling and Multiple Linear Regression using SAS and SQL
    - **Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome**
 
-3. [What is former OKC basketball player Westbrook's outlook on the Lakers?](https://github.com/ihnguyen/R_Project)
-   - Explores fan's sentiment towards a well-known basketball player on Twitter data
-   - Analysis technique used: Sentiment Analysis using R
-   - **Goals: To determine the value of a basketball player's performance in a new team based on fan sentiment which can facilitate future contract negotiations and increase consumer retention**
-
-4. [R-Shiny Interactive Dashboard of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://aibx1h-thuy0nhi0nguyen.shinyapps.io/SkilledNursingFacilities/)
+3. [R-Shiny Interactive Dashboard of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://aibx1h-thuy0nhi0nguyen.shinyapps.io/SkilledNursingFacilities/)
    - Technique used: R Shiny
    - **Goals: To facilitate data exploration of California SNF and identify relationships and trends**
