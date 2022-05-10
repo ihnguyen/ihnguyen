@@ -18,6 +18,6 @@ Projects at a glance:
    - Analysis techniques used: County-level Profiling and Multiple Linear Regression using SAS and SQL
    - **Goals: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome**
 
-3. [R-Shiny Interactive Dashboard of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://aibx1h-thuy0nhi0nguyen.shinyapps.io/SkilledNursingFacilities/)
+3. [R-Shiny Interactive Dashboard of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://www.youtube.com/watch?v=78uA3t3osOA)
    - Technique used: R Shiny
-   - **Goals: To facilitate data exploration of California SNF and identify relationships and trends**
+   - **Goals: To determine counties that are still affected by COVID-19 related deaths**
