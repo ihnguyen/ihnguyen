@@ -25,7 +25,7 @@ Individual projects:
    - Data modeling technique used: County-level Profiling and Multiple Linear Regression using SAS and SQL
    - **Goal: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome. Aims to predict hospital bed length of stay on Medicare claims data**
 
-&#x1F3E2; [Do High Levels of Cholesterol Increase Your Odds of Having Hypertension?](https://github.com/ihnguyen/SAS_Project)
+&#x1F35F; [Do High Levels of Cholesterol Increase Your Odds of Having Hypertension?](https://github.com/ihnguyen/SAS_Project)
    - Data modeling technique used: Multiple Logistic Regression using SAS and SQL
    -  **Goal: To inform in better health decisions and increase life expectancy and longevity. Aims to discover the relationship between two common health predictors on Framingham Heart Study data**
 
