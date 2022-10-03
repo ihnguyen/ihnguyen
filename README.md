@@ -25,7 +25,9 @@ Projects at a glance:
    - Data modeling technique used: Multiple Logistic Regression using SAS and SQL
    -  **Goal: To inform in better health decisions and increase life expectancy and longevity. Aims to discover the relationship between two common health predictors on Framingham Heart Study data**
 
-6. 
+6. [Predicting NBA Salary based on 2017-2018 Salary Data Using Multiple Linear Regression](https://github.com/ihnguyen/NBASalary)
+   - Data modeling technique used: Multiple Linear Regression using R
+   -  **Goal: To determine if there is a relationship or correlation between an NBA's player's performance statistics with their salary**
 
 
 
