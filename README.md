@@ -13,23 +13,25 @@ Individual projects:
    - Data wrangling and visualization technique used: SAS
    - **Goal: To determine the prevalence and incidence demographic and overall rates of those impacted by Sjögren's Syndrome**
 
-2. 
+2. [Evaluation of Monkeypox Cases and Trends Across Multiple Continents](https://www.github.com/ihnguyen/monkeypox)
+   - Data wrangling and visualization technique used: R
+   - **Goal: To determine which countries are most impacted by Monkeypox, which months has increased case count, and the common symptoms associated with the virus**
 
 3. [R-Shiny Interactive Dashboard Video of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://www.youtube.com/watch?v=78uA3t3osOA)
    - Data visualization technique used: R Shiny
    - **Goal: To determine counties that are still affected by COVID-19 related deaths**
 
-4. [Predicting length of stay (LOS) in beneficiaries](https://github.com/ihnguyen/SAS_Project2)
+4. [Predicting Length of Stay (LOS) in Beneficiaries](https://github.com/ihnguyen/SAS_Project2)
    - Data modeling technique used: County-level Profiling and Multiple Linear Regression using SAS and SQL
    - **Goal: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome. Aims to predict hospital bed length of stay on Medicare claims data**
 
-5. [Do high levels of cholesterol increase your odds of having hypertension?](https://github.com/ihnguyen/SAS_Project)
+5. [Do High Levels of Cholesterol Increase Your Odds of Having Hypertension?](https://github.com/ihnguyen/SAS_Project)
    - Data modeling technique used: Multiple Logistic Regression using SAS and SQL
    -  **Goal: To inform in better health decisions and increase life expectancy and longevity. Aims to discover the relationship between two common health predictors on Framingham Heart Study data**
 
 Group project:
 
-6. [Predicting NBA Salary based on 2017-2018 Salary Data Using Multiple Linear Regression](https://github.com/ihnguyen/NBASalary)
+6. [Predicting NBA Salary Based on 2017-2018 Salary Data Using Multiple Linear Regression](https://github.com/ihnguyen/NBASalary)
    - Data modeling technique used: Multiple Linear Regression using R
    -  **Goal: To determine if there is a relationship or correlation between an NBA's player's performance statistics with their salary**
 
