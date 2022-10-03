@@ -21,7 +21,7 @@ Individual projects:
    - Data visualization technique used: R Shiny
    - **Goal: To determine counties that are still affected by COVID-19 related deaths**
 
-4. &#x1F3E5[Predicting Length of Stay (LOS) in Beneficiaries](https://github.com/ihnguyen/SAS_Project2)
+4. [&#x1F3E5 Predicting Length of Stay (LOS) in Beneficiaries](https://github.com/ihnguyen/SAS_Project2)
    - Data modeling technique used: County-level Profiling and Multiple Linear Regression using SAS and SQL
    - **Goal: To increase and optimize efficiency with hospital bed occupancies and reduce hospital bills without compromising patient health outcome. Aims to predict hospital bed length of stay on Medicare claims data**
 
