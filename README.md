@@ -3,8 +3,7 @@
 When I was a clinical laboratory associate at biotechnology company, I had the opportunity to analyze oncology machinery data using Excel which sparked my interest in data science.
 I pursued a certificate in Healthcare Analytics to better understand how programming languages such as SAS and SQL can be used to make statistical inferences.
 
-Today I am currently pursuing a Master's in Statistics concentration in Data Science at California State University East Bay. My goal is to advance my technical skillset in programming languages such as R and utilize statistical knowledge to help make data-driven insights and decisions that will make positive and transformative impacts to the lives of others.
-I would like to introduce you projects I have completed in the past few years using R, SAS, and SQL.
+Today I am currently pursuing a Master's in Statistics concentration in Data Science at California State University East Bay. My goal is to advance my technical skillset in programming languages through data wrangling, visualization, and more. Additionally, I would like to apply my statistical knowledge to enable data-driven actionable insights and decisions to make positive and transformative impacts to the lives of others. Thank you for visiting my page and I would like to introduce you projects I have completed in the past several years using R, SAS, and SQL.
 
 Projects at a glance:
 
