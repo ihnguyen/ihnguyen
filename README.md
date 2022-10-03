@@ -24,7 +24,7 @@ Projects at a glance:
 
 4. [Evaluation of Sjögren's Syndrome Prevalence and Incidence in Adult U.S. Population from Administrative Health Claims Data](https://www.github.com/ihnguyen/sjogren)
    - Technique used: SAS
-   - **Goals: To determine the prevalence and incidence demographic and overall rates of those impacted by Sjögren's Syndrome **
+   - **Goals: To determine the prevalence and incidence demographic and overall rates of those impacted by Sjögren's Syndrome**
 
 
 
