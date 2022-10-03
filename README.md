@@ -21,3 +21,9 @@ Projects at a glance:
 3. [R-Shiny Interactive Dashboard Video of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://www.youtube.com/watch?v=78uA3t3osOA)
    - Technique used: R Shiny
    - **Goals: To determine counties that are still affected by COVID-19 related deaths**
+
+4. [Evaluting Prevalence and Incidence Rates of Sjogren's Syndrome in US adults](https://www.github.com/ihnguyen/sjogren)
+
+
+
+
