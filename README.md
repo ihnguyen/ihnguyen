@@ -15,7 +15,7 @@ Individual projects:
 
 2. [Evaluation of Monkeypox Cases and Trends Across Multiple Continents](https://www.github.com/ihnguyen/monkeypox)
    - Data wrangling and visualization technique used: R
-   - **Goal: To determine which countries are most impacted by Monkeypox and of the most impacted country, which months has increased case count using data wrangling and visualization, and what are the common symptoms associated with the virus using text analysis**
+   - **Goal: To determine which countries are most impacted by Monkeypox and of the most impacted country, which months has increased case count. Additionally, what are the common symptoms associated with the virus in all countries using text analysis**
 
 3. [R-Shiny Interactive Dashboard Video of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://www.youtube.com/watch?v=78uA3t3osOA)
    - Data visualization technique used: R Shiny
