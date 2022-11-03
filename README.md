@@ -31,7 +31,7 @@ Individual projects:
 
 &#x1F3C0; [Text/Sentimental Analysis - What is Westbrook's Outlook on the Lakers?](https://github.com/ihnguyen/sentimentanalysis_lakers)
    - Data wrangling and visualization technique used: R
-   -  **Goal: To assess Lakers fan's emotions on Russell Westbrook's fit to the Lakers team**
+   -  **Goal: To assess Lakers fans' emotions on Russell Westbrook's fit on the Lakers team**
 
 
 
