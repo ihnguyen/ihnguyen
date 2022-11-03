@@ -29,6 +29,12 @@ Individual projects:
    - Data modeling technique used: Multiple Logistic Regression using SAS and SQL
    -  **Goal: To inform in better health decisions and increase life expectancy and longevity. Aims to discover the relationship between two common health predictors on Framingham Heart Study data**
 
+&#x1F3C0; [Text/Sentimental Analysis - What is Westbrook's Outlook on the Lakers?](https://github.com/ihnguyen/sentimentanalysis_lakers)
+   - Data wrangling and visualization technique used: R
+   -  **Goal: To assess Lakers fan's emotions on Russell Westbrook's fit to the Lakers team**
+
+
+
 Group project:
 
 &#x1F3C0; [Predicting NBA Salary Based on 2017-2018 Salary Data Using Multiple Linear Regression](https://github.com/ihnguyen/NBASalary)
