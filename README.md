@@ -42,5 +42,20 @@ Group project:
    -  **Goal: To determine if there is a relationship or correlation between an NBA's player's performance statistics with their salary**
 
 
+Class projects:
 
+&#x1F3C0; [Plotting Geospatial Data Using leaflet, ggspatial and maps](https://rpubs.com/ihnguyen/stat651hw3)
+   - Interactive and Static plots from R
+   -  **Goal: To practice visualizing geospatial data with multiple libraries**
 
+&#x1F3C0; [New York Restaurant Explorer Table](https://rpubs.com/ihnguyen/resviolations)
+   - Interactive table from R-Shiny
+   -  **Goal: To view the number of violations and other characteristics about each New York Restaurant**
+
+&#x1F3C0; [BayWheel Bikes Flexdashboard](https://rpubs.com/ihnguyen/baywheels)
+   - Static dashboard from R-Shiny
+   -  **Goal: To increase the usability of the bikes through identifying which locations the bikes are used the longest, what time of the day it is used the most, and compare the data year from year**
+
+&#x1F3C0; [Heatmap of mtcars Dataset](https://rpubs.com/ihnguyen/heatmap)
+   - Interactive dashboard from R-Shiny
+   -  **Goal: To visualize the relationship between types of cars with weight, gear, etc.**
