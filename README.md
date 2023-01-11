@@ -44,7 +44,7 @@ Group project:
 
 Class projects:
 
-&#x1F3C0; [Plotting Geospatial Data Using leaflet, ggspatial and maps](https://rpubs.com/ihnguyen/stat651hw3)
+&#127759; [Plotting Geospatial Data Using leaflet, ggspatial and maps](https://rpubs.com/ihnguyen/stat651hw3)
    - Interactive and Static plots from R
    -  **Goal: To practice visualizing geospatial data with multiple libraries**
 
