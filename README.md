@@ -9,6 +9,10 @@ Today I am currently pursuing a Master's in Statistics concentration in Data Sci
 
 Individual projects:
 
+&#128164; [Prediction and Classification of Sleep](https://www.github.com/ihnguyen/nutrition)
+   - Modeling using R
+   - **Goal: To predict the number of hours of sleep and classify if patient has sleep trouble using nutrition examination surveys.**
+
 &#x1F440; [Evaluation of Sjögren's Syndrome Prevalence and Incidence in Adult U.S. Population from Administrative Health Claims Data](https://www.github.com/ihnguyen/sjogren)
    - Wrangling and visualization using SAS
    - **Goal: To determine the prevalence and incidence demographic and overall rates of those impacted by Sjögren's Syndrome**
@@ -29,11 +33,6 @@ Individual projects:
    - Modeling using Multiple Logistic Regression in SAS, Wrangling using SQL
    -  **Goal: To inform in better health decisions and increase life expectancy and longevity. Aims to discover the relationship between two common health predictors on Framingham Heart Study data**
 
-&#x1F3C0; [Text/Sentimental Analysis - What is Westbrook's Outlook on the Lakers?](https://github.com/ihnguyen/sentimentanalysis_lakers)
-   - Wrangling and visualization using R
-   -  **Goal: To assess Lakers fans' emotions on Russell Westbrook's fit on the Lakers team**
-
-
 
 Group project:
 
@@ -41,21 +40,3 @@ Group project:
    - Modeling using Multiple Linear Regression in R
    -  **Goal: To determine if there is a relationship or correlation between an NBA's player's performance statistics with their salary**
 
-
-Class projects:
-
-&#127759; [Plotting Geospatial Data Using leaflet, ggspatial and maps](https://rpubs.com/ihnguyen/stat651hw3)
-   - Interactive and Static plots from R
-   -  **Goal: To practice visualizing geospatial data with multiple libraries**
-
-&#128509; [New York Restaurant Explorer Table](https://rpubs.com/ihnguyen/resviolations)
-   - Interactive table from R-Shiny
-   -  **Goal: To view the number of violations and other characteristics about each New York Restaurant**
-
-&#128690; [BayWheel Bikes Flexdashboard](https://rpubs.com/ihnguyen/baywheels)
-   - Static dashboard from R-Shiny
-   -  **Goal: To increase the usability of the bikes through identifying which locations the bikes are used the longest, what time of the day it is used the most, and compare the data year from year**
-
-&#128663; [Heatmap of mtcars Dataset](https://rpubs.com/ihnguyen/heatmap)
-   - Interactive dashboard from R-Shiny
-   -  **Goal: To visualize the relationship between types of cars with weight, gear, etc.**
