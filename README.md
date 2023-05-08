@@ -1,9 +1,8 @@
 # About Me
 
-When I was a clinical laboratory associate at biotechnology company, I had the opportunity to analyze oncology machinery data using Excel which sparked my interest in data science.
-I pursued a certificate in Healthcare Analytics to better understand how programming languages such as SAS and SQL can be used to make statistical inferences.
+My interest in data analytics and science sparked when I had the opportunity to analyze oncology machinery data using Excel. In 1.5 years, I received my Healthcare Analytics certificate from UC Davis. In May 2023, I'm proud to announce I have received my Master's in Statistics concentration in Data Science from California State University East Bay.
 
-Today I am currently pursuing a Master's in Statistics concentration in Data Science at California State University East Bay. My goal is to advance my technical skillset in programming languages through data wrangling, visualization, and more. Additionally, I would like to apply my statistical knowledge to enable data-driven actionable insights and decisions to make positive and transformative impacts to the lives of others. Thank you for visiting my page and I would like to introduce you projects I have completed in the past several years using R, SAS, and SQL.
+My focus is in healthcare and public health data as the appeal is to mitigate **$800 billion** in fraud, waste, and abuse annually.
 
 # Projects at a glance:
 
