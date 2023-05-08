@@ -10,7 +10,7 @@ Today I am currently pursuing a Master's in Statistics concentration in Data Sci
 Individual projects:
 
 &#128164; [Prediction and Classification of Sleep](https://www.github.com/ihnguyen/nutrition)
-   - Modeling using R
+   - Machine Learning using R
    - **Goal: To predict the number of hours of sleep and classify if patient has sleep trouble using nutrition examination surveys.**
 
 &#x1F440; [Evaluation of Sjögren's Syndrome Prevalence and Incidence in Adult U.S. Population from Administrative Health Claims Data](https://www.github.com/ihnguyen/sjogren)
