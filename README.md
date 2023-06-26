@@ -10,7 +10,7 @@ PostGreSQL Project:
 
 
 
-SAS and SQL Projects:
+Proc SQL using SAS Projects:
 
 &#x1F3E5; [Predicting Length of Stay (LOS) in Beneficiaries Using County-Level Profiling](https://github.com/ihnguyen/SAS_Project2)
    - Modeling using Multiple Linear Regression in SAS, Wrangling using SQL
