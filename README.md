@@ -1,8 +1,6 @@
 # About Me
 
-My interest in data analytics and science sparked when I had the opportunity to analyze oncology machinery data using Excel. In 1.5 years, I received my Healthcare Analytics certificate from UC Davis. In May 2023, I'm proud to announce I have received my Master's in Statistics concentration in Data Science from California State University East Bay.
-
-My focus is in healthcare and public health data as the appeal is to mitigate **$800 billion** in fraud, waste, and abuse annually so taxpayer money can be better utilized at improving health.
+My interest in data analytics and science sparked when I had the opportunity to analyze oncology machinery data using Excel. In 1.5 years, I received my Healthcare Analytics certificate from UC Davis. I'm proud to announce I have received my Master's in Statistics, concentration in Data Science from California State University East Bay.
 
 # SQL Projects:
 
