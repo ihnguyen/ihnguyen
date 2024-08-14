@@ -4,13 +4,7 @@ My interest in data analytics and science sparked when I had the opportunity to 
 
 My focus is in healthcare and public health data as the appeal is to mitigate **$800 billion** in fraud, waste, and abuse annually so taxpayer money can be better utilized at improving health.
 
-# SQL:
-
-PostGreSQL Project:
-
-
-
-Proc SQL using SAS Projects:
+# SQL Projects:
 
 &#x1F3E5; [Predicting Length of Stay (LOS) in Beneficiaries Using County-Level Profiling](https://github.com/ihnguyen/SAS_Project2)
    - Modeling using Multiple Linear Regression in SAS, Wrangling using SQL
