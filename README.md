@@ -28,8 +28,8 @@ Individual projects:
    - Wrangling and visualization using R
    - **Goal: To determine common symptoms words using text analysis and identify which countries were most impacted by Monkeypox and of the most impacted country, which months has increased case count**
 
-&#x1F987; [R-Shiny Interactive Dashboard Video of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://www.youtube.com/watch?v=78uA3t3osOA)
-   - Visualization using R-Shiny
+&#x1F987; [R-Shiny Interactive Dashboard of California Skilled Nursing Facilities COVID-19 Cases and Deaths](https://aibx1h-thuy0nhi0nguyen.shinyapps.io/SNF_Dashboard/)
+   - Visualization using R-Shiny and [video](https://www.youtube.com/watch?v=78uA3t3osOA) presented by myself
    - **Goal: To determine counties that are still affected by COVID-19 related deaths**
 
 Group project:
