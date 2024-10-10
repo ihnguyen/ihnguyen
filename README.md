@@ -1,6 +1,6 @@
 # About Me
 
-My interest in data analytics and science sparked when I had the opportunity to analyze oncology machinery data using Excel. In 1.5 years, I received my Healthcare Analytics certificate from UC Davis. I'm proud to announce I have received my Master's in Statistics, concentration in Data Science from California State University East Bay.
+Clinical lab professional turned data analyst. My mission is to contribute to my community through my strengths in analytics and statistics.
 
 # SQL Projects:
 
